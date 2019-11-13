@@ -5,7 +5,7 @@
 }
 
 html, body {
-  background: blue;
+  background: black;
   font-family: sans-serif;
   color: #F1F1F1;
 }
@@ -18,7 +18,7 @@ a {
 /* NAV */
 .nav {
   display: flex;
-  background: blue;
+  background: black;
   justify-content: space-around;
   padding: 20px;
 }
@@ -103,7 +103,7 @@ a {
 .container {
   max-width: 1200px;
   margin: 0 auto;
-  background: blue;
+  background: black;
   padding: 20px;
   display: flex;
   position: relative;
